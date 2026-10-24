@@ -1,3 +1,3 @@
 Hi!
 My Name Is B.Mahadev
-I am a beginner in programmer and wish to improve a lot!
+This Is A Recipes Website Created Using HTML For The Odin Project
